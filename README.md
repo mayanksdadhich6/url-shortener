@@ -1,4 +1,4 @@
-# URL Shortener (BitLinks Clone)
+# URL Shortener (TinyUrl Clone)
 A simple URL shortener built with Next.js and MongoDB.  
 
 ## Features
